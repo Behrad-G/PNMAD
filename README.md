@@ -1,8 +1,9 @@
 # PNMAD
 **Pore Network Model for Advection and Diffusion.** 
 
-This pore network modelling tool was developed by me and published in the following manuscript:
-Evaluating the hydraulic and transport properties of peat soil using pore network modeling and X-ray micro computed tomography, https://doi.org/10.1016/j.jhydrol.2018.04.007
+This pore network modelling tool was developed by me and published in the following manuscript: https://doi.org/10.1016/j.jhydrol.2018.04.007
+
+The aim of the study was to forecast properties of porous material via pore network modelling. 
 
 Following is an animaiton showing build up and flushing of a solute through the network of pores, where blue means no solute and orange means filled with solute. 
 
